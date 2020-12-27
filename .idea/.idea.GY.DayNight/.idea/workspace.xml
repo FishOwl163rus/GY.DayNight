@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="897962de-d3c1-486a-a8f2-c56ce822699f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GY.DayNight/DayNight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.DayNight/Config.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.DayNight/Time.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GY.DayNight/Class1.cs" />
+        <option value="$PROJECT_DIR$/GY.DayNight/Time.cs" />
+        <option value="$PROJECT_DIR$/GY.DayNight/CommandDvote.cs" />
+        <option value="$PROJECT_DIR$/GY.DayNight/CommandNvote.cs" />
+        <option value="$PROJECT_DIR$/GY.DayNight/Config.cs" />
+        <option value="$PROJECT_DIR$/GY.DayNight/Commands/CommandCallVote.cs" />
+        <option value="$PROJECT_DIR$/GY.DayNight/Commands/CommandVote.cs" />
+        <option value="$PROJECT_DIR$/GY.DayNight/DayNight.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X7Tf8kbBAo2FBdxDBDTfKs18Xn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="897962de-d3c1-486a-a8f2-c56ce822699f" name="Default Changelist" comment="" />
+      <created>1563201476988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563201476988</updated>
+      <workItem from="1563201510458" duration="19155000" />
+      <workItem from="1563270014684" duration="2160000" />
+      <workItem from="1563272982821" duration="4829000" />
+      <workItem from="1563291307361" duration="4394000" />
+      <workItem from="1563305179946" duration="1214000" />
+      <workItem from="1563387360588" duration="4556000" />
+      <workItem from="1563444604916" duration="3406000" />
+      <workItem from="1563630139353" duration="359000" />
+      <workItem from="1564046032892" duration="1143000" />
+      <workItem from="1564066229684" duration="2111000" />
+      <workItem from="1564305094265" duration="5851000" />
+      <workItem from="1564339233761" duration="216000" />
+      <workItem from="1564746943731" duration="647000" />
+      <workItem from="1564952292573" duration="599000" />
+      <workItem from="1564992465613" duration="907000" />
+      <workItem from="1566055868118" duration="601000" />
+      <workItem from="1566225353240" duration="3490000" />
+      <workItem from="1566415165781" duration="93000" />
+      <workItem from="1567187321370" duration="1239000" />
+      <workItem from="1578679388246" duration="4061000" />
+      <workItem from="1580396241038" duration="1609000" />
+      <workItem from="1580403901825" duration="1979000" />
+      <workItem from="1580409282873" duration="144000" />
+      <workItem from="1580480149806" duration="774000" />
+      <workItem from="1581006052143" duration="78000" />
+      <workItem from="1584827297787" duration="181000" />
+      <workItem from="1586451297816" duration="1544000" />
+      <workItem from="1587200619442" duration="1030000" />
+      <workItem from="1607175201064" duration="50000" />
+      <workItem from="1609011471881" duration="2008000" />
+      <workItem from="1609076900105" duration="10631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="831" y="418" key="Github.ShareDialog" timestamp="1609088980433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="831" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609088980433" />
+    <state x="753" y="193" key="RiderGenerateDialog" timestamp="1609080874566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="193" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609080874566" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
